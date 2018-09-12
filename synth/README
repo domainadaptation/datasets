@@ -1,0 +1,16 @@
+Synthetic Digits Dataset by Skoltech Computer Vision Group (http://sites.skoltech.ru/compvision/)
+
+A synthetic counterpart of the SVHN dataset used in the paper "Unsupervised Domain Adaptation by Backpropagation" by Yaroslav Ganin and Victor Lempitsky.
+
+*_small.mat files are for debugging purposes.
+
+If you wish to use this dataset in your research please cite the paper above:
+
+@inproceedings{ganin2015unsupervised,
+    author    = {Yaroslav Ganin and Victor S. Lempitsky},
+    title     = {Unsupervised Domain Adaptation by Backpropagation},
+    booktitle = {ICML},
+    year      = {2015}
+}
+
+This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
