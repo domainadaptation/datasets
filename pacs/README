@@ -1,0 +1,15 @@
+
+PACS Dataset: Dataset from the Paper "Deeper, Broader and Artier Domain Generalization"
+This dataset was created by intersecting the classes found in Caltech256 (Photo), Sketchy (Photo, Sketch) , TU-Berlin (Sketch) and Google Images (Art painting, Cartoon, Photo)
+
+
+Detailed Description: http://www.eecs.qmul.ac.uk/~dl307/project_iccv2017
+
+
+@inproceedings{Li2017dg,
+  			title={Deeper, Broader and Artier Domain Generalization},
+  			author={Li, Da and Yang, Yongxin and Song, Yi-Zhe and Hospedales, Timothy},
+  			booktitle={International Conference on Computer Vision},
+  			year={2017}
+		}
+

@@ -1,0 +1,68 @@
+
+VLCS Dataset aggregates photos(a subset) from Caltech101, LabelMe, Pascal VOC 2007 and SUN09 datasets. 
+It provides a 5-way multiclass benchmark on the five common classes: ’bird’,’car’,’chair’,’dog’ and ’person’. 
+
+The above dataset has been downloaded from the repository of the paper "Domain Generalization by Solving Jigsaw Puzzles" 
+Link to repository: https://github.com/fmcarlucci/JigenDG
+Link to the dataset: http://www.mediafire.com/file/7yv132lgn1v267r/vlcs.tar.gz/file
+
+
+
+VLCS_F contains the DeCAF:4096 features extracted from the VLCS dataset. 
+This dataset has been used from the repository below:
+Link to the repository: https://github.com/jindongwang/transferlearning/blob/master/data/dataset.md#vlsc
+ 
+
+VOC2007: Dataset from the PASCAL Visual Object Classes Challenge 2007
+Detailed Description: http://host.robots.ox.ac.uk/pascal/VOC/voc2007/index.html
+
+If you wish to use this dataset in your research please cite the paper below:
+@misc{pascal-voc-2007,
+	author = "Everingham, M. and Van~Gool, L. and Williams, C. K. I. and Winn, J. and Zisserman, A.",
+	title = "The {PASCAL} {V}isual {O}bject {C}lasses {C}hallenge 2007 {(VOC2007)} {R}esults",
+	howpublished = "http://www.pascal-network.org/challenges/VOC/voc2007/workshop/index.html"}
+
+
+
+LabelMe: Dataset from the Institute for Computer Science VI Autonomous Intelligent Systems
+Detailed Description:: http://www.ais.uni-bonn.de/download/datasets.html
+
+If you wish to use this dataset in your research please cite the paper below:
+@inproceedings{uetz2009large,
+  title={Large-scale object recognition with CUDA-accelerated hierarchical neural networks},
+  author={Uetz, Rafael and Behnke, Sven},
+  booktitle={2009 IEEE international conference on intelligent computing and intelligent systems},
+  volume={1},
+  pages={536--541},
+  year={2009},
+  organization={IEEE}
+}
+
+
+SUN09: Dataset from the paper Exploiting Hierarchical Context on a Large Database of Object Categories
+Detailed Description: http://people.csail.mit.edu/myungjin/HContext.html
+
+If you wish to use this dataset in your research please cite the paper below:
+@inproceedings{choi_cvpr10,
+author = {Myung Jin Choi and Joseph J. Lim and Antonio Torralba and Alan S. Willsky},
+Booktitle = {IEEE Conference on Computer VIsion and Pattern Recognition (CVPR)},
+title = {Exploiting Hierarchical Context on a Large Database of Object Categories},
+year = {2010}}
+
+
+
+Caltech101: Dataset from the Computational Vision Group at CALTECH
+Detailed Decsription: http://www.vision.caltech.edu/Image_Datasets/Caltech101/
+
+If you wish to use this dataset in your research please cite the paper below:
+
+@article{fei2006one,
+  title={One-shot learning of object categories},
+  author={Fei-Fei, Li and Fergus, Rob and Perona, Pietro},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={28},
+  number={4},
+  pages={594--611},
+  year={2006},
+  publisher={IEEE}
+}
